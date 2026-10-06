@@ -4,6 +4,8 @@ A self-contained browser game about guiding a luminous coral dragon through an u
 
 **Play it:** <https://gbgh1.github.io/coral-dragon-reef-rescue/> · [Hugging Face Space](https://huggingface.co/spaces/gbuzhf/coral-dragon-reef-rescue)
 
+[![Gameplay: the dragon collects all 8 eggs and heals all 5 polyps](demo.gif)](https://gbgh1.github.io/coral-dragon-reef-rescue/)
+
 ## How it was made
 
 Generated in a **single shot** by [`Nex-N2.5-mini-OrcaRouter-Sangreal-23G-ICE.gguf`](https://huggingface.co/gbuzhf/Nex-N2.5-mini-OrcaRouter-Sangreal-ICE/blob/main/Nex-N2.5-mini-OrcaRouter-Sangreal-23G-ICE.gguf), running locally through the Nous Hermes desktop harness on Windows 11:
